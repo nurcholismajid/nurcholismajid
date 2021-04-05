@@ -4,11 +4,6 @@
 - 💞️ I’m looking to collaborate on Nusa Impact
 - 📫 How to reach me ...
 
-<!---
-nurcholismajid/nurcholismajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <p>
   <a href="https://www.linkedin.com/in/nurcholis-majid-7b1160208"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/no_orch/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
