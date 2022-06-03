@@ -15,3 +15,9 @@
 </p>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/nomjno.png" alt="TryHackMe">
+<html>
+  <head></head>
+  <body>
+    <script src="https://tryhackme.com/badge/998021"></script>
+  </body>
+</html
