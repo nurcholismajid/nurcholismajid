@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nurcholismajid
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on Nusa Impact
+- 👀 I’m interested in Python, Golang
+- 🌱 I’m currently learning Artificial Intelligence, and Cyber Security
 - 📫 How to reach me ...
 
 <p>
