@@ -14,4 +14,4 @@
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
 </p>
 
-<img src="https://tryhackme.com/badge/998021"></img>
+<img src="https://tryhackme-badges.s3.amazonaws.com/nomjno.png" alt="TryHackMe">
